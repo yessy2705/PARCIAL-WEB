@@ -1,0 +1,9 @@
+Salodos Profesor.
+
+Esto es para notificarle que en la seccion del mapa, no tiene la ubicacion
+correcta, debido a que por motivos de seguridad no me deja implementarla
+y me da un error.
+
+Gracias de antemano.
+
+Yessy Grullón.
